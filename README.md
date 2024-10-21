@@ -27,7 +27,7 @@ The dataset includes the following key columns:
 ## Usage
   **Exploration**: Use the dashboard to filter by outlet type, item type, and location.
   **Analysis**: View the detailed data transformations and calculated fields used in the analysis.
-##Contributing
-  Contributions are welcome! Please create a new branch for any updates and submit a pull request
+  **Contributing**
+     Contributions are welcome! Please create a new branch for any updates and submit a pull request
 
 
